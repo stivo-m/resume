@@ -1,3 +1,7 @@
+---
+colorlinks: true
+---
+
 <section>
     <header>
         <h1 style="margin-bottom:0;padding-bottom:1;">Steven Maina</h1>
@@ -8,9 +12,8 @@
         <span style="color:grey">|</span>
         <small>+254-714-725-468</small>
         <span style="color:grey">|</span>
-        <small><a href="https://www.linkedin.com/in/maina-steven/">Linkedin Profile</a></small>
+        <small>Linkedin: https://www.linkedin.com/in/maina-steven/</small>
     </section>
-
 </section>
 
 ---
@@ -105,7 +108,6 @@ _Sep 2015 - Jan 2017_
 
 The following are some of the technical books I have read
 
-- Building a Story Brand - Donald Miller
 - Don’t Make Me Think - Steve Krug
 - The Pragmatic Programmer - David Thomas & Andrew Hunt
 - Domain-Driven Design - Jim Lewis
