@@ -2,19 +2,11 @@
 colorlinks: true
 ---
 
-<section>
-    <header>
-        <h1 style="margin-bottom:0;padding-bottom:1;">Steven Maina</h1>
-        <h3 style="margin-top:0;padding-top:0;">Software Egineer | Flutter & React</h3>
-    </header>
-    <section style="width:100%;display:flex;flex-direction:row;gap:20px;align-items:center;">
-        <small><a href="mailto:maichstivo254@gmail.com">maichstivo254@gmail.com</a></small>
-        <span style="color:grey">|</span>
-        <small>+254-714-725-468</small>
-        <span style="color:grey">|</span>
-        <small>Linkedin: https://www.linkedin.com/in/maina-steven/</small>
-    </section>
-</section>
+# Steven Maina
+
+### Software Engineer | Flutter & Dart
+
+maichstivo254@gmail.com | +254-714-725 | [Linkedin Profile](https://www.linkedin.com/in/maina-steven/)
 
 ---
 
