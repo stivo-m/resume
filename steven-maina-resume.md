@@ -4,17 +4,17 @@ colorlinks: true
 
 # Steven Maina
 
-### Full Stack Developer | Flutter & JavaScript Specialist
+### Full Stack Developer | Flutter, Laravel, & JavaScript Specialist
 
-maichstivo254@gmail.com | +254-714-725 | [Linkedin Profile](https://www.linkedin.com/in/maina-steven/)
+maichstivo254@gmail.com | +254-714-725-468 | [Linkedin Profile](https://www.linkedin.com/in/maina-steven/)
 
 ---
 
 ## Skills
 
-- **Programming Languages:** Dart, JavaScript, TypeScript, Go, Python
+- **Programming Languages:** Dart, Laravel, TypeScript, Go, Python
 - **Frontend:** React, NextJS, Tailwind CSS
-- **Backend:** Go, NodeJS
+- **Backend:** PHP(Laravel), Go, NodeJS
 - **Mobile Development:** Flutter
 - **Tools & Platforms:** Docker, AWS, GCP, PostgreSQL, Firebase
 - **Development Practices:** Full-Stack Development, CI/CD, UX/UI Design, System Design, Consulting
@@ -23,9 +23,20 @@ maichstivo254@gmail.com | +254-714-725 | [Linkedin Profile](https://www.linkedin
 
 ## Experience
 
-**Volane International, Nairobi, Kenya**  
+**Globout: Berlin, Germany**  
+_Senior Lead Developer_  
+_September 2024 - May, 2024_
+
+- Coordinated daily stand-up meetings and sprint planning sessions to streamline task management and enhance team collaboration.
+- Delivered robust features across the technology stack by building backend services with NodeJS and crafting responsive frontend solutions using Flutter with Firebase.
+- Instituted automated CI/CD pipelines for both Android and iOS platforms, reducing testing times by 50% and accelerating deployment cycles.
+- Engineered a Slack integration that boosted platform signups by 15%, significantly increasing traction and user growth.
+- Spearheaded the rollout of activity reminders and community features, resulting in a 25% increase in app usage and a 30% uplift in overall engagement.
+  <br/>
+
+**Volane International: Nairobi, Kenya**  
 _Senior Software Engineer_  
-_May 2022 - Present_
+_May 2022 - August, 2024_
 
 - Collaborated with product and marketing teams to redesign the mobile onboarding process, improving retention and user experience by 40%.
 - Launched an advanced monitoring system for LPG operations that reduced manual data entry errors, resulting in 30% fewer discrepancies in monthly reporting and increasing accuracy in financial projections.
@@ -45,7 +56,7 @@ _February 2021 - January 2024_
 
 ---
 
-**Savannah Informatics, Nairobi, Kenya**  
+**Savannah Informatics: Nairobi, Kenya**  
 _Software Engineer_  
 _June 2020 - March 2022_
 
@@ -65,7 +76,7 @@ _October 2021 - March 2022_
 
 ## Education
 
-**Murang’a University of Technology, Murang’a, Kenya**  
+**Murang’a University of Technology: Murang’a, Kenya**  
 _BSc. Mathematics & Computer Science_  
 _September 2015 - January 2017_
 
