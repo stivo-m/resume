@@ -12,11 +12,11 @@ maichstivo254@gmail.com | +254-714-725-468 | [Linkedin Profile](https://www.link
 
 ## Skills
 
-- **Programming Languages:** Dart, Laravel, TypeScript, Go, Python
+- **Programming Languages:** Dart, Laravel, TypeScript, Go, Python, Java, Swift
 - **Frontend:** React, NextJS, Tailwind CSS
 - **Backend:** PHP(Laravel), Go, NodeJS
 - **Mobile Development:** Flutter
-- **Tools & Platforms:** Docker, AWS, GCP, PostgreSQL, Firebase
+- **Tools & Platforms:** Docker, AWS, GCP, PostgreSQL, Firebase, Analytics, Error Tracing
 - **Development Practices:** Full-Stack Development, CI/CD, UX/UI Design, System Design, Consulting
 
 ---
@@ -25,7 +25,7 @@ maichstivo254@gmail.com | +254-714-725-468 | [Linkedin Profile](https://www.link
 
 **Globout: Berlin, Germany**  
 _Senior Lead Developer_  
-_September 2024 - May, 2024_
+_September 2024 - May, 2025_
 
 - Coordinated daily stand-up meetings and sprint planning sessions to streamline task management and enhance team collaboration.
 - Delivered robust features across the technology stack by building backend services with NodeJS and crafting responsive frontend solutions using Flutter with Firebase.
