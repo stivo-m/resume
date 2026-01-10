@@ -23,6 +23,13 @@ maichstivo254@gmail.com | +254-714-725-468 | [Linkedin Profile](https://www.link
 
 ## Experience
 
+**Griffin Global Technologies, United States**  
+_Software Engineer_
+_September 2025 - Present_
+
+- Built internal applications to support finance, procurement and HR departments, enhancing operational efficiency
+  <br/>
+
 **Globout: Berlin, Germany**  
 _Senior Lead Developer_  
 _September 2024 - May, 2025_
